@@ -13,6 +13,7 @@ git commit -m 'update: <your comment on this upload here>'
 # Push the changes to the remote repo
 git push origin <your branch name>
 ```
+- **Always submit a Pull Request if you want to combine your code to the main branch**
 
 ### TO-DOs(*subject to change*)
 - proposal
