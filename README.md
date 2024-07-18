@@ -1,6 +1,11 @@
 # Characterizing Similarities in Task-trained Dynamical Models on Abastract Relation Tasks(*subject to change*)
 TBD
 
+### Requirements
+```bash
+python>=3.6?
+#TBD
+```
 ### Start As a Collaborator (`Terminal` / `console` in VScode)
 - Clone the current repo to a designated folder on local machine in terminal by `git clone https://github.com/Xemin0/NeuroAIProj_Abstract.git`
 - Create your own branch by `git checkout -b <your branch name>`
