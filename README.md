@@ -21,8 +21,8 @@ git push origin <your branch name>
 - **Always submit a Pull Request if you want to combine your code to the main branch**
 
 ### TO-DOs(*subject to change*)
-- ~proposal~
-- ~overall pipleline/framework~
-- division of work, e.g. data generation / processing / pipeline construction/ model architecture design / training-testing / analysis etc.
-- Adapt the RNN to the Structure Predicting Task
+- ~Adapt the RNN to the Structure Predicting Task~
+- Fix the Loss Calculation for masked output from RNN
+- Fix the data generation and training logistics (currently no shuffling)
+- Analysis
 
