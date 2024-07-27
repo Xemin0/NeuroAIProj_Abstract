@@ -24,5 +24,6 @@ git push origin <your branch name>
 - ~Adapt the RNN to the Structure Predicting Task~
 - Fix the Loss Calculation for masked output from RNN
 - Fix the data generation and training logistics (currently no shuffling)
+    - The target labels generation by input indices
 - Analysis
 
